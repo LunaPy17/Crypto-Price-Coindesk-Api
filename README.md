@@ -1,4 +1,5 @@
 Crypto-Price-Coindesk-Api
+[![CodeFactor](https://www.codefactor.io/repository/github/lunapy17/crypto-price-coindesk-api/badge/main)](https://www.codefactor.io/repository/github/lunapy17/crypto-price-coindesk-api/overview/main)
 =======
 
 
