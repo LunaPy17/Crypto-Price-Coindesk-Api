@@ -1,7 +1,6 @@
 Crypto-Price-Coindesk-Api
-[![CodeFactor](https://www.codefactor.io/repository/github/lunapy17/crypto-price-coindesk-api/badge/main)](https://www.codefactor.io/repository/github/lunapy17/crypto-price-coindesk-api/overview/main)
 =======
-
+[![CodeFactor](https://www.codefactor.io/repository/github/lunapy17/crypto-price-coindesk-api/badge/main)](https://www.codefactor.io/repository/github/lunapy17/crypto-price-coindesk-api/overview/main)
 
 This is a simple Flask-based API that provides the current price, percentage change, and change in value of a given cryptocurrency. It retrieves data from the Coindesk API and returns it in a JSON format.
 
