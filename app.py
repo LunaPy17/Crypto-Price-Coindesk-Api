@@ -32,4 +32,4 @@ def welcome():
         return html.read()
 
 if __name__ == '__main__': # If the current script is being run as the main program
-    app.run(host="0.0.0.0") # Start the Flask application with the IP address of the host set to 0.0.0.0 (accessible from any network interface)
+    app.run() # Start the Flask application with the IP address of the host set to 0.0.0.0 (accessible from any network interface)
